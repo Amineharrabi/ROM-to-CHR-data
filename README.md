@@ -1,6 +1,10 @@
 watch the youtube video ! :
 https://www.youtube.com/watch?v=bFm_uItvVVQ
 
+![img](https://imgur.com/a/Fal5lCr)
+
+
+
 🔧 Technologies Used:
 
 Python (PIL, NumPy, PyTorch)
