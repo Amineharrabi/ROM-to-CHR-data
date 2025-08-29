@@ -1,7 +1,7 @@
 watch the youtube video ! :
 https://www.youtube.com/watch?v=bFm_uItvVVQ
 
-![img](https://imgur.com/a/Fal5lCr)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/efe19231-68cd-4154-aa11-fcf3b8ea22f4" />
 
 
 
